@@ -1,4 +1,3 @@
-# Título
-## Primeira alteração
+# Repositório de estudos
 
-- Deu certo!	
+## Aqui estão inseridos os repositórios e arquivos usados para estudo pessoal
