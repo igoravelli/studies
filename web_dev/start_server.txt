@@ -1,0 +1,5 @@
+docker run -it --rm \
+-v /home/igorregly/estudos/web_dev:/app \
+-p 3000:3000 \
+-p 3001:3001 \
+browsersync browser-sync start --server --directory --files "*" --no-open false
