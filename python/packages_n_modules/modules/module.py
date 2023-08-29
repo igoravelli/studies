@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 ->> this line of code tells to pc what program needs to be launched to interpret the text
 
 """" module.py - an example of a Python module"""
 
